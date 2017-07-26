@@ -29,6 +29,20 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+# Using haml instead of erb
+gem 'haml', '~> 5.0', '>= 5.0.1'
+
+# using simple forms
+gem 'simple_form', '~> 3.5'
+
+# using bootstrap
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+
+# paperclip for image management
+gem 'paperclip', '~> 5.1'
+
+# Cocoon for nested form handling
+gem 'cocoon', '~> 1.2', '>= 1.2.10'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
