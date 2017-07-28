@@ -1,5 +1,7 @@
 # README
 
+---Based on proj 1 of 12 in 12 challenge by Mackenzie Child---
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
